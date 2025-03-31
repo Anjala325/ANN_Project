@@ -1,0 +1,1 @@
+This project involves the development of a Loan Prediction Dashboard using Streamlit and an Artificial Neural Network (ANN). The dashboard allows users to upload a dataset and train a deep learning model to predict loan approvals based on various applicant attributes. The model is interactive, enabling users to adjust hyperparameters and visualize training performance.
